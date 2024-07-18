@@ -69,7 +69,7 @@
 .header__description {
   max-width: 683px;
   font-family: "Noto Serif";
-  font-style: normal:
+  font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
@@ -86,7 +86,7 @@
   font-weight: normal;
   font-size: 60px;
   line-height: 72px;
-  color: #2f80ED;
+  color: #2f80ed;
 }
 
 .header__footer {
