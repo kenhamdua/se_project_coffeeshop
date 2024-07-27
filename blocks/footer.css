@@ -1,0 +1,42 @@
+.footer {
+  background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
+}
+
+.footer__column-heading {
+  margin: 0 0 20px;
+  font-size: 16px;
+}
+
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 80px 108px;
+  margin: 0;
+}
+
+.footer__list {
+  /* The code below removes the default browser styles for lists */
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 0;
+}
+
+.footer__logo {
+  max-width: 105px;
+  max-height: 39px;
+}
+
+.footer__copyright {
+  padding: 0 80px 60px;
+  margin: 0;
+}
+
+.footer__column-link:hover {
+  color: #c1c1c1;
+}
+
+.footer__social-icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+}

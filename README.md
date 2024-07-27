@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+What I could see as an enhancement to this project would be added functionality where the user could use a calculator to calculate an order, in the menu selection. Receive a bill and the ability to update the order.
