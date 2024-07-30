@@ -1,8 +1,3 @@
-.reservation__form {
-  margin: 0 auto;
-  background-color: #d9e7ff;
-}
-
 .form {
   max-width: 385px;
 }
@@ -13,7 +8,7 @@
   padding: 0;
   margin: 0;
   border: none;
-  font-family: Inter;
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -27,11 +22,12 @@
   padding: 0;
   margin-bottom: 32px;
   display: block;
-  font-family: Inter;
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  color: #000000;
 }
 
 .form__label_type_checkbox {
@@ -41,11 +37,6 @@
   border-radius: 2px;
   display: flex;
   justify-content: center;
-  font-family: Inter;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
 }
 
 .form__checkbox {
@@ -56,6 +47,7 @@
   margin-right: 12px;
   width: 20px;
   height: 20px;
+  border-radius: 2px;
 }
 
 .form__checkbox:checked {
@@ -71,12 +63,20 @@
   display: block;
   width: 100%;
   height: 60px;
-  padding: 0;
   box-sizing: border-box;
+  border-color: #838383;
+  border-width: 1px;
+  border-style: solid;
   margin-top: 8px;
   border-radius: 4px;
   text-indent: 12px;
   max-width: 385px;
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  color: #838383;
 }
 
 .form__button {
@@ -85,7 +85,7 @@
   height: 60px;
   padding: 0;
   margin-bottom: 32px;
-  font-family: Inter;
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -97,6 +97,15 @@
 }
 
 .form__button:hover {
-  opacity: 70%;
-  transition: ease;
+  background-color: #2fd0ed;
+  from {
+    opacity: 100%;
+    transition: 1s ease;
+  }
+  to {
+    opacity: 70%;
+    transition: 1s ease;
+  }
+
+  /* transition:ease */
 }
