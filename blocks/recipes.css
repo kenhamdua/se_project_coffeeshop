@@ -12,7 +12,7 @@
 .recipes__title {
   margin: 0;
   padding: 100px 80px 0;
-  font-family: Inter, Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -43,7 +43,7 @@
 .recipes__video-caption {
   margin: 0;
   padding: 24px 0 0;
-  font-family: Inter, Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
