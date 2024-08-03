@@ -51,6 +51,7 @@
   color: #ffffff;
   display: flex;
   justify-content: space-between;
+  padding-bottom: 215px;
 }
 
 .recipes__iframe {
