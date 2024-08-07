@@ -4,11 +4,8 @@
 }
 .nav__logo {
   position: relative;
-  left: -50px;
   width: 105px;
   height: 39px;
-  margin-top: 30px;
-  margin-bottom: 30px;
 }
 
 .nav__links {

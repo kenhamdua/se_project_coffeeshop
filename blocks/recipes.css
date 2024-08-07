@@ -57,4 +57,5 @@
 .recipes__iframe {
   width: 480px;
   height: 273px;
+  border: none;
 }

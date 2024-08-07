@@ -41,13 +41,11 @@
 .header__description {
   max-width: 683px;
   font-family: "Noto Serif", "Times New Roman", serif;
-  /* font-style: normal;
-  font-weight: normal; */
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
   letter-spacing: -0.6px;
-  margin: 28px 0 0;
+  top: 28px;
   position: relative;
   z-index: 1;
 }
@@ -72,7 +70,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
-  color: #838383;
+  color: #6f6f6f;
 }
 
 .header__paragraph {
