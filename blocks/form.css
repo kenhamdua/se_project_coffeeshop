@@ -97,11 +97,5 @@
 }
 
 .form__button:hover {
-  background-color: #3f96f3;
-  from {
-    opacity: 100%;
-  }
-  to {
-    opacity: 70%;
-  }
+  opacity: 70%;
 }

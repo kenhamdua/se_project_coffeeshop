@@ -44,10 +44,7 @@
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
-  letter-spacing: -0.6px;
-  top: 28px;
-  position: relative;
-  z-index: 1;
+  margin: 28px 0 0;
 }
 
 .header__span-accent {

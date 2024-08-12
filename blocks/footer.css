@@ -59,6 +59,7 @@
   font-size: 16px;
   line-height: 20px;
   color: #fff;
+  text-decoration: none; /* remove underline from links */
   transition: 5ms ease;
 }
 
